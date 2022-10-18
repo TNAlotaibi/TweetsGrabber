@@ -15,6 +15,7 @@ namespace TweetsGrabber
         
         private static Task SetRequestOptions()
         {  
+
             request.Host = "na.glbtls.t.co";
             request.Method = "GET";
             request.Accept = "application/json";
