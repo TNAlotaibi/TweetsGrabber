@@ -42,7 +42,7 @@ namespace TweetsGrabber
         public static IEnumerable<string> TweetsGenerator(string TargetUsername , string Keyword)
         {
             var Endpoint = $"https://na.glbtls.t.co/2/search/adaptive.json?q=from:@{TargetUsername} {Keyword}&spelling_corrections=true&query_source=profile_click&tweet_search_mode=top&earned=true&include_entities=true&include_cards=true&cards_platform=Android-12&include_carousels=true&ext=mediaRestrictions,altText,mediaStats,mediaColor,info360,highlightedLabel,superFollowMetadata,hasNftAvatar,unmentionInfo,collabControl&include_media_features=true&include_blocking=true&include_blocked_by=true&include_ext_trusted_friends_metadata=true&include_ext_media_availability=true&include_quote_count=true&simple_quoted_tweet=true&include_ext_enrichments=true&include_ext_replyvoting_downvote_perspective=true&include_composer_source=true&include_ext_collab_control=true&tweet_mode=extended&include_reply_count=true&include_ext_sensitive_media_warning=true&include_user_entities=true&include_profile_interstitial_type=true&include_ext_professional=true&include_viewer_quick_promote_eligibility=true&include_ext_has_nft_avatar=true";
-            request = (HttpWebRequest)WebRequest.Create(Endpoint);
+            request = (HttpWebRequest)WebRequest.Create(Endpoint); 
             Task.Run(() => SetRequestOptions()).Wait();
             var Response = string.Empty;
             try
