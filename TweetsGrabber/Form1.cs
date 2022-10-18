@@ -3,7 +3,6 @@ using System.IO;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
-using System.Threading.Tasks;
 
 namespace TweetsGrabber
 {
