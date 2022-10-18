@@ -35,8 +35,6 @@ namespace TweetsGrabber
                 }
             }
             else MessageBox.Show("No tweets", "TweetsGrabber", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
-
         }
         bool isURL(string text)
         => Regex.Match(text, @"http(s)\:\/\/[0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*(:(0-9)*)*(\/?)([a-zA-Z0-9\-\.\?\,\'\/\\\+&%\$#_]*)?([a-zA-Z0-9\-\?\,\'\/\+&%\$#_]+)").Success;

@@ -8,7 +8,7 @@ namespace TweetsGrabber
 {
     internal class Twitter
     {
-        static HttpWebRequest request;// = (HttpWebRequest)WebRequest.Create("");
+        static HttpWebRequest request;
           
         private static string BearerToken = string.Empty;
         //private static string guestToken = string.Empty;
