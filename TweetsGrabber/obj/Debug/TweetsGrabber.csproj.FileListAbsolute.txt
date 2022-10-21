@@ -1,0 +1,11 @@
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\bin\Debug\TweetsGrabber.exe.config
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\bin\Debug\TweetsGrabber.exe
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\bin\Debug\TweetsGrabber.pdb
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\obj\Debug\TweetsGrabber.csproj.AssemblyReference.cache
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\obj\Debug\TweetsGrabber.csproj.SuggestedBindingRedirects.cache
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\obj\Debug\TweetsGrabber.Form1.resources
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\obj\Debug\TweetsGrabber.Properties.Resources.resources
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\obj\Debug\TweetsGrabber.csproj.GenerateResource.cache
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\obj\Debug\TweetsGrabber.csproj.CoreCompileInputs.cache
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\obj\Debug\TweetsGrabber.exe
+C:\Users\user3\source\repos\TweetsGrabber\TweetsGrabber\obj\Debug\TweetsGrabber.pdb

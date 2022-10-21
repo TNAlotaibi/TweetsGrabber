@@ -92,9 +92,9 @@
             this.ALLTWEETS.ForeColor = System.Drawing.Color.CornflowerBlue;
             this.ALLTWEETS.Location = new System.Drawing.Point(196, 53);
             this.ALLTWEETS.Name = "ALLTWEETS";
-            this.ALLTWEETS.Size = new System.Drawing.Size(94, 17);
+            this.ALLTWEETS.Size = new System.Drawing.Size(71, 17);
             this.ALLTWEETS.TabIndex = 4;
-            this.ALLTWEETS.Text = "ALL TWEETS";
+            this.ALLTWEETS.Text = "All tweets";
             this.ALLTWEETS.UseVisualStyleBackColor = false;
             // 
             // KWtextbox
