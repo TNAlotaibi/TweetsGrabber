@@ -42,5 +42,10 @@ namespace TweetsGrabber
         {
             Twitter.GetHeaders();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }
